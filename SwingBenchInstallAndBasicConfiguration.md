@@ -18,14 +18,19 @@ sed -i 's/Xms512m/Xms2048m' /mnt/c/swingbench/launcher/launcher.xml
 2.  C:\swingbench\winbin\oewizard.bat
 
 <kbd> ![GitHub Logo](images/1.png) </kbd>
+
 <kbd> ![GitHub Logo](images/2.png) </kbd>
+
 <kbd> ![GitHub Logo](images/3.png) </kbd>
 
 <kbd> ![GitHub Logo](images/4.png) </kbd>
+
 <kbd> ![GitHub Logo](images/5.png) </kbd>
+
 <kbd> ![GitHub Logo](images/6.png) </kbd>
 
 <kbd> ![GitHub Logo](images/7.png) </kbd>
+
 <kbd> ![GitHub Logo](images/8.png) </kbd>
 
 Windows-Swingbench : m5.8xlarge
