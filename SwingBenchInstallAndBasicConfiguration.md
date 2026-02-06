@@ -15,7 +15,7 @@ sed -i 's/Xms512m/Xms2048m/g' /mnt/c/swingbench/launcher/launcher.xml
 
 **Generate Sample SOE Schema**
 
-2.  C:\swingbench\winbin\oewizard.bat
+`C:\swingbench\winbin\oewizard.bat`
 
 <kbd> ![GitHub Logo](images/1.png) </kbd>
 
@@ -32,6 +32,11 @@ sed -i 's/Xms512m/Xms2048m/g' /mnt/c/swingbench/launcher/launcher.xml
 <kbd> ![GitHub Logo](images/7.png) </kbd>
 
 <kbd> ![GitHub Logo](images/8.png) </kbd>
+
+**Generate 1G Data**
+Oracle Server : m4.16xlarge
+Windows-Swingbench : m5.8xlarge
+4min 12s
 
 Windows-Swingbench : m5.8xlarge
 Oracle Server : m4.16xlarge
